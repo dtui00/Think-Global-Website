@@ -5,5 +5,5 @@ README.txt file with the following information:
 
 Name: Dinah Tu'ihalangingie
 UPI: dtui668
-Repository URL: 
+Repository URL: https://github.com/dtui00/Think-Global-Website 
 Website URL:
